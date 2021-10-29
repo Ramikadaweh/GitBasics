@@ -202,3 +202,4 @@ has been identified and actively promote calendar to drive enrolments above mini
 
 attendance levels.
 
+![alt text for screen readers](OIP.jpg)
